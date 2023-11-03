@@ -1,0 +1,12 @@
+h1, h2, h3{
+     color:black
+}
+body{
+     background-color: rgb(135, 135, 253);
+}
+header{
+     color: rgb(247, 241, 241);
+}
+article{
+     font-size: 18px;
+}
